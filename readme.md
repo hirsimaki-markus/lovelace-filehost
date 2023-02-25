@@ -75,8 +75,8 @@ Example: `ccfa29b9a0972f37-1745eec0568a8261-d925c3bee74746...99bef7cdeb98bab1`
 
 # Todo?
 In python:
-* Replace stub functions in `permissions.py` with actual implementation.
-* "personalinformation" field in redis is hard-coded to "Erkki Esimerkki".
+* Replace stub functions in `permissions.py` with actual implementation
+  when details exist for authprovider
 * Add new tests when authprovider is well defined.
 
 Architechture-wise:
