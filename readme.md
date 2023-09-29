@@ -1,7 +1,7 @@
 # What?
 This project is my submission for the final task of Programmable Web Project
 course at University of Oulu. If you are unfamiliar with the course, consider
-this repository as a reference implementation for simplistic flask-to-redis
+this repository as an example implementation for simplistic flask-to-redis
 file storage API. Otherwise, read on.
 
 
